@@ -1,0 +1,12 @@
+{
+  "name": "alian-telegram-bot",
+  "version": "1.0.0",
+  "description": "بوت تيليجرام تجريبي من تطوير عليّان",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
